@@ -1,2 +1,10 @@
-# Assembler
-This an implementation of the nand2tetris problem for an assembler.
+# Overview
+This is a java implementation of the nand2tetris assembler problem.
+
+The codebase is old and needs to be rewritten.
+
+# Usage
+```sh
+TODO
+```
+
